@@ -13,12 +13,12 @@ The easiest way to set this up:
 1.  Upload jupyter notebook file and three .py file to your Google Colaboratory.
 2.  Upload the dataset on your own Google Drive.  
     Your directory should appear like this in Google Drive:
->    ../
->        /dataset
->          /Nonwetland.mat
->          /wetland.mat
->        /WetlandImageRecognition.ipynb
->        /LeNet5.py
->        /MyNet.py
->        /Dataloader.py
+>    ../  
+>        /dataset  
+>          /Nonwetland.mat  
+>          /wetland.mat  
+>        /WetlandImageRecognition.ipynb  
+>        /LeNet5.py  
+>        /MyNet.py  
+>        /Dataloader.py  
 3.  
