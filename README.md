@@ -6,4 +6,4 @@ The whole project is implemeted and tested with Google Colab.
 
 Contributer: Maorong Wang and Yuanzhe Jin
 
-You can access to dataset [here](https://drive.google.com/open?id=1rzYHHWeeFoArQtmOFaYIB29Gzpo4qUjO)
+Due to NAIP dataset is too large for github to handle, you can access to dataset [here](https://drive.google.com/open?id=1rzYHHWeeFoArQtmOFaYIB29Gzpo4qUjO).
