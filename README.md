@@ -21,7 +21,7 @@ The easiest way to set this up:
         /WetlandImageRecognition.ipynb  
         /LeNet5.py  
         /MyNet.py  
-        /Dataloader.py  
+        /data_loader.py  
     </pre>
 3.  Mount Google Drive in the jupyter notebook and execute the cells.
 
