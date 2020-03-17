@@ -25,4 +25,4 @@ The easiest way to set this up:
     </pre>
 3.  Mount Google Drive in the jupyter notebook and execute the cells.
 
-If you wish to download the code and dataset on your own PC and test the code, please rememeber to adjust the `root_path` and `data_loader.py`.
+If you wish to download the code and dataset on your own PC and test the code, please rememeber to adjust `root_path` and `data_loader.py`.
