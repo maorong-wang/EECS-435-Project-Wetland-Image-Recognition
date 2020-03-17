@@ -12,7 +12,7 @@ The easiest way to set this up:
 
 1.  Upload jupyter notebook file and three .py file to your Google Colaboratory.
 2.  Upload the dataset on your own Google Drive.  
-    Your directory should appear like this in Google Drive:  
+    Your directory should appear like this in Google Drive:
     <pre>
     ../  
         /dataset  
