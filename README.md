@@ -5,3 +5,5 @@ This repo is the final project of EECS_435 DL:FAA at Northwestern.
 The whole project is implemeted and tested with Google Colab.
 
 Contributer: Maorong Wang and Yuanzhe Jin
+
+You can access to dataset [here](https://drive.google.com/open?id=1rzYHHWeeFoArQtmOFaYIB29Gzpo4qUjO)
